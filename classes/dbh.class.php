@@ -1,6 +1,6 @@
 <?php
 
-class Dbh {
+class DataBase {
 
 
 public function connect(){
