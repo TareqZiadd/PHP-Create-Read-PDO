@@ -1,6 +1,6 @@
 <?php
 
-class Test extends Dbh {
+class Test extends DataBase {
 
     //without prepare()
     /*
